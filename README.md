@@ -1,1 +1,2 @@
 # Quantitative-Assignment
+This project consists of raw data files and one jupyter notebook, one spyder file and one r file. The basic data cleaning, exploration and transformation was conducted using python, while regression analysese were conducted using R. Regarding python, the spyder file is not much different from jupyter notebook, while only the latter contains visualizations. Path names might need to be changed to run the codes.
